@@ -1,8 +1,7 @@
-package shapes;
+package alexlewis9.shapes;
 
 import java.awt.Color;
 
-import processing.awt.PSurfaceAWT;
 import processing.core.PApplet;
 
 /**

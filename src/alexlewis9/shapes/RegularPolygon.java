@@ -1,4 +1,4 @@
-package shapes;
+package alexlewis9.shapes;
 
 import java.awt.Color;
 
